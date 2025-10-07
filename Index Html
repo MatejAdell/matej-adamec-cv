@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Matej Adamec - CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    h2 {
+      color: #0056b3;
+      margin-top: 40px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    .contact {
+      font-size: 0.9em;
+      color: #666;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+ header>
+    <h1>Matej Adamec</h1>
+    <p class="contact">Consultant, Financial Analysis | Remote - Slovakia, Bratislavsky kraj</p>
+    <p class="contact">Email: matej.adamec@example.com | LinkedIn: linkedin.com/in/matejadamec</p>
+  </header>
+
+  <section>
+    <h2>Professional Summary</h2>
+    <p>Experienced financial consultant at Dell Technologies FP&A, leading AI Forum initiatives and driving analytical excellence.</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Dell Technologies</strong> – Consultant, Financial Analysis (202X–Present)</li>
+      <li>Led creation of AI Forum with 10 members to foster innovation in FP&A.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>University Name</strong> – Degree, Field of Study (Year)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Financial Modeling</li>
+      <li>AI Strategy in FP&A</li>
+      <li>Data Analysis & Visualization</li>
+    </ul>
+  </section>
+</body>
+</html>
