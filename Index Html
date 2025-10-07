@@ -1,127 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Matej Adamec - CV</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    header, section {
-      margin-bottom: 40px;
-    }
-    h1, h2 {
-      color: #0056b3;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .contact {
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Matej Adamec</h1>
-    <p class="contact">Global Services FP&A Manager | Dell Technologies</p>
-     </header>
-
-  <section>
-    <h2>Professional Summary</h2>
-    <p>Driving change through innovative thinking and identifying opportunities for process improvements. Trusted professional and knowledgeable business partner influencing decisions through advanced analysis.</p>
-  </section>
-
-  <section>
-    <h2>Key Strengths</h2>
-    <ul>
-      <li>Business Partnership & Alignment</li>
-      <li>Trusted SME in Services Orders</li>
-      <li>Highly Driven & Optimistic</li>
-      <li>Great Analytical Skills & Abilities</li>
-      <li>Calm & Logical communication style</li>
-      <li>Adaptable to fast-changing and ambiguous environments</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Development Opportunities</h2>
-    <ul>
-      <li>Expand business acumen beyond orders into P&L, BS, and Accounting</li>
-      <li>Strengthen cross-functional relationships</li>
-      <li>Increase visibility through global projects and forums</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Education & Certifications</h2>
-    <ul>
-      <li>MBA – Czech Management Institute Prague (2000–2005)</li>
-      <li>Faculty of Business Management</li>
-      <li>RockStars II (2013), FAP (2019–2020), Lean Six Sigma Yellow Belt</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Professional Experience</h2>
-    <ul>
-      <li><strong>Dell Technologies</strong> – FP&A Global Services Orders Senior Manager (2018–Present)</li>
-      <li>Leading a team of 7, supporting $18B annual services orders revenue</li>
-      <li>Advanced analytics for Services CFO, Sales Controller, and Sales President</li>
-      <li>Implemented Power BI platform for order analytics</li>
-      <li>Previous roles at Dell: Consultant Support Lead, EMEA Controller, Strategic Analyst</li>
-      <li><strong>Novartis</strong> – BPA Manager (2008–2011)</li>
-      <li><strong>DCK CZ</strong> – Financial Controller (2001–2008)</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Key Outcomes</h2>
-    <ul>
-      <li>Improved tied services planning cycle turnaround</li>
-      <li>Led executive reviews for planning and forecasting</li>
-      <li>Built high-performing team and analytics platform</li>
-      <li>Strong alignment with BU, Corporate FP&A, GRC, and Services CoC</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Awards & Recognitions</h2>
-    <ul>
-      <li>Tell Dell Rockstar FY20, FY21, FY24</li>
-      <li>FY24 Recognition for Business Partnership</li>
-      <li>Game Changer Award – Q2'20</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Development Goals</h2>
-    <h3>Short Term (1 Year)</h3>
-    <ul>
-      <li>Build Business Acumen</li>
-      <li>Strengthen Professional Relationships & Visibility</li>
-      <li>Improve Executive Storytelling & Influencing</li>
-      <li>Skillset Transformation</li>
-    </ul>
-    <h3>Long Term (2–3 Years)</h3>
-    <ul>
-      <li>Broaden Financial Knowledge</li>
-      <li>Adopt Modernization Practices</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Next Career Steps</h2>
-    <ul>
-      <li>Near Term: Deepen business acumen within current role</li>
-      <li>12–24 Months: Expand into senior finance role with broader scope</li>
-      <li>>36 Months: Become a trusted, experienced finance leader</li>
-    </ul>
-  </section>
-</body>
-</html>
+<section>
+  <h2>Professional Experience</h2>
+  <ul>
+    <li><strong>FP&A - Global Services Senior Manager</strong><br>
+      Dell Technologies | Aug 2018 – Present | Bratislava<br>
+      Leading Orders Process Team of 7. Focused on building a strong, talented team delivering advanced analytics, proactive insights, and sustainable processes. Developing talent and supporting business partners.
+    </li>
+    <li><strong>FP&A - Global Services Consultant</strong><br>
+      Dell Technologies | Aug 2016 – Jul 2018 | Bratislava<br>
+      Owned AOP, Outlook, and Close processes end-to-end. Created planning templates, dashboards, and variance tools. Partnered with SDS Controllers and Services Leadership Team.
+    </li>
+    <li><strong>Comm Finance - EMEA Western Distribution Controller</strong><br>
+      Dell Technologies | May 2015 – Jul 2016 | Bratislava<br>
+      Managed Quota/SCP Sell Out Process for 76 heads. Improved T&E control and forecasting across BU, Country, and Stock.
+    </li>
+    <li><strong>FP&A - EMEA FCST Lead & Strategic Analyses</strong><br>
+      Dell Technologies | May 2012 – Apr 2014 | Bratislava<br>
+      Led FCST and AOP processes. Enabled GTM assessments and PA coverage.
+    </li>
+    <li><strong>FP&A - EMEA PLE FP&A Senior Advisor</strong><br>
+      Dell Technologies | Jul 2011 – Apr 2012 | Bratislava<br>
+      Delivered weekly performance and GM% variance analysis used across EMEA FP&A.
+    </li>
+    <li><strong>BPA Manager</strong><br>
+      Novartis AG | Jul 2008 – Jun 2011 | Bratislava<br>
+      Provided financial analysis and reporting to support decision-making. Led budgeting, forecasting, and SAP CO module certification. Participated in EURO conversion project.
+    </li>
+  </ul>
+</section>
