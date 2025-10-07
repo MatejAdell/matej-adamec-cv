@@ -8,66 +8,102 @@
     body {
       font-family: Arial, sans-serif;
       margin: 40px;
-      background-color: #f9f9f9;
+      background-color: #f4f4f4;
       color: #333;
     }
-    header {
-      text-align: center;
+    header, section {
       margin-bottom: 40px;
     }
-    h1 {
-      margin: 0;
-      font-size: 2em;
-    }
-    h2 {
+    h1, h2 {
       color: #0056b3;
-      margin-top: 40px;
     }
-    section {
-      margin-bottom: 30px;
+    ul {
+      padding-left: 20px;
     }
     .contact {
       font-size: 0.9em;
       color: #666;
     }
-    ul {
-      padding-left: 20px;
-    }
   </style>
 </head>
 <body>
- header>
+  <header>
     <h1>Matej Adamec</h1>
-    <p class="contact">Consultant, Financial Analysis | Remote - Slovakia, Bratislavsky kraj</p>
-    <p class="contact">Email: matej.adamec@example.com | LinkedIn: linkedin.com/in/matejadamec</p>
+    <p class="contact">Consultant, Financial Analysis | Dell Technologies</p>
+    <p class="contact">Location: Bratislava, Slovakia | Email: matej.adamec@example.com</p>
   </header>
 
   <section>
     <h2>Professional Summary</h2>
-    <p>Experienced financial consultant at Dell Technologies FP&A, leading AI Forum initiatives and driving analytical excellence.</p>
+    <p>Driving change through innovative thinking and identifying opportunities for process improvements. Trusted professional and knowledgeable business partner influencing decisions through advanced analysis.</p>
   </section>
 
   <section>
-    <h2>Experience</h2>
+    <h2>Key Strengths</h2>
     <ul>
-      <li><strong>Dell Technologies</strong> – Consultant, Financial Analysis (202X–Present)</li>
-      <li>Led creation of AI Forum with 10 members to foster innovation in FP&A.</li>
+      <li>Highly driven & trusted business partner</li>
+      <li>Great analytical skills & abilities</li>
+      <li>Calm & logical communication style</li>
+      <li>Adaptable to fast-changing and ambiguous environments</li>
     </ul>
   </section>
 
   <section>
-    <h2>Education</h2>
+    <h2>Development Opportunities</h2>
     <ul>
-      <li><strong>University Name</strong> – Degree, Field of Study (Year)</li>
+      <li>Expand business acumen in P&L through leadership engagement</li>
+      <li>Strengthen cross-functional relationships</li>
+      <li>Increase visibility through local project engagement</li>
+      <li>Actively seek feedback for continuous improvement</li>
     </ul>
   </section>
 
   <section>
-    <h2>Skills</h2>
+    <h2>Education & Certifications</h2>
     <ul>
-      <li>Financial Modeling</li>
-      <li>AI Strategy in FP&A</li>
-      <li>Data Analysis & Visualization</li>
+      <li>MBA – Czech Management Institute Prague (2000–2005)</li>
+      <li>Faculty of Business Management</li>
+      <li>RockStars II (2013), FAP (2019)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Professional Experience</h2>
+    <ul>
+      <li><strong>Dell Technologies</strong> – FP&A Global Services Orders Senior Manager (2018–Present)</li>
+      <li>Leading a team of 6, supporting $18B annual services orders revenue</li>
+      <li>Advanced analytics for Services CFO, Sales Controller, and Sales President</li>
+      <li>Implemented Power BI platform for order analytics</li>
+      <li>Previous roles at Dell: Consultant Support Lead, EMEA Controller, Strategic Analyst</li>
+      <li><strong>Novartis</strong> – BPA Manager (2008–2011)</li>
+      <li><strong>DCK CZ</strong> – Financial Controller (2001–2008)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Key Outcomes</h2>
+    <ul>
+      <li>Exceptional support to senior finance and sales leaders</li>
+      <li>Led executive reviews for planning and forecasting</li>
+      <li>Built high-performing team and analytics platform</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Awards & Recognitions</h2>
+    <ul>
+      <li>Tell Dell Rockstar FY20, FY21, FY24</li>
+      <li>Game Changer Award – Q2'20</li>
+      <li>Delight Award – Q1'20</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Next Career Steps</h2>
+    <ul>
+      <li>Near Term: Deepen business acumen</li>
+      <li>12–24 Months: Expand into senior finance role</li>
+      <li>>36 Months: Become a trusted finance leader</li>
     </ul>
   </section>
 </body>
